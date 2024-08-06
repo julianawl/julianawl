@@ -1,7 +1,7 @@
 ## 💟 Welcome to my GitHub Profile! 💟
 <img src="https://i.pinimg.com/originals/d8/6c/8d/d86c8dd4ab953f9370925106c547ce30.gif" width=400 align="right">
 
-- I'm Juliana, 24y and brazilian 
+- I'm Juliana, 25y and brazilian 
 - I'm currently working as a mobile developer
 
 _"it ain't much but it's honest work"_
